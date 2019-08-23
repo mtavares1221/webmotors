@@ -1,0 +1,9 @@
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp2.2\TesteWebMotors.Domain.deps.json
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp2.2\TesteWebMotors.Domain.dll
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\bin\Debug\netcoreapp2.2\TesteWebMotors.Domain.pdb
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp2.2\TesteWebMotors.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp2.2\TesteWebMotors.Domain.AssemblyInfoInputs.cache
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp2.2\TesteWebMotors.Domain.AssemblyInfo.cs
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp2.2\TesteWebMotors.Domain.dll
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp2.2\TesteWebMotors.Domain.pdb
+C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Domain\obj\Debug\netcoreapp2.2\TesteWebMotors.Domain.csprojAssemblyReference.cache

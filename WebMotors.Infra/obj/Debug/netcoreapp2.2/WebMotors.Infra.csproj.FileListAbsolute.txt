@@ -1,0 +1,12 @@
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\bin\Debug\netcoreapp2.2\WebMotors.Infra.deps.json
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\bin\Debug\netcoreapp2.2\WebMotors.Infra.dll
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\bin\Debug\netcoreapp2.2\WebMotors.Infra.pdb
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\bin\Debug\netcoreapp2.2\TesteWebMotors.Domain.dll
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\bin\Debug\netcoreapp2.2\TesteWebMotors.Domain.pdb
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.csprojAssemblyReference.cache
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.AssemblyInfoInputs.cache
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.AssemblyInfo.cs
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.csproj.CopyComplete
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.dll
+C:\Users\Mama\source\repos\TesteWebMotors\WebMotors.Infra\obj\Debug\netcoreapp2.2\WebMotors.Infra.pdb

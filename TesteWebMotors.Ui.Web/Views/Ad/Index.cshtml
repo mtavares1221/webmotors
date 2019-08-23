@@ -1,0 +1,65 @@
+﻿@model IEnumerable<TesteWebMotors.Domain.Entities.Ad>
+
+@{
+    ViewData["Title"] = "Anúncios";
+}
+
+<h1>Anúncios</h1>
+
+<p>
+    <a asp-action="Create">Novo Anúncio</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Marca
+            </th>
+            <th>
+                Modelo
+            </th>
+            <th>
+               Versão
+            </th>
+            <th>
+                Ano
+            </th>
+            <th>
+                Quilometragem
+            </th>
+            <th>
+                Observação
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Make)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Version)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Km)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Obs)
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Exibir", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Excluir", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
