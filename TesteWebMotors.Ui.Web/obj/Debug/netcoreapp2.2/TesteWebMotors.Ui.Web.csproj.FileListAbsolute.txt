@@ -14,8 +14,6 @@ C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcor
 C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\TesteWebMotors.Ui.Web.TagHelpers.input.cache
 C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\TesteWebMotors.Ui.Web.TagHelpers.output.cache
 C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\TesteWebMotors.Ui.Web.RazorCoreGenerate.cache
-C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\Mama\source\repos\TesteWebMotors\TesteWebMotors.Ui.Web\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs

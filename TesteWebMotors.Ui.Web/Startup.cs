@@ -44,7 +44,7 @@ namespace TesteWebMotors.Ui.Web
             }
             else
             {
-                app.UseExceptionHandler("/Home/Error");
+                app.UseExceptionHandler("/Ad/Error");
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
@@ -56,7 +56,7 @@ namespace TesteWebMotors.Ui.Web
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Ad}/{action=Index}/{id?}");
             });
         }
     }
